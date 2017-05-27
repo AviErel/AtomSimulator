@@ -1,0 +1,18 @@
+﻿<UserControl x:Class="AtomSimulator.Classes.Painter"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:AtomSimulator.Classes"
+             mc:Ignorable="d"
+             d:DesignHeight="300" d:DesignWidth="300"
+             x:Name="mainWindow">
+    <Grid>
+        <Canvas Margin="10,10,10,10" VerticalAlignment="Top" HorizontalAlignment="Left" Width="280" Height="280"
+            MouseLeftButtonDown="Canvas_MouseDown" Name="canvas" MouseWheel="canvas_MouseWheel">
+            <Canvas.RenderTransform>
+                <ScaleTransform x:Name="st"/>
+            </Canvas.RenderTransform>
+        </Canvas>
+    </Grid>
+</UserControl>

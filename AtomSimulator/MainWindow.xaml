@@ -1,0 +1,24 @@
+﻿<Window x:Class="AtomSimulator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AtomSimulator"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <StackPanel Name="main">
+        <StackPanel Orientation="Horizontal">
+            <Button Name="plus" Click="Button_Clicked" Width="50">+</Button>
+            <TextBlock Name="ratio" Width="50" Text="X1" TextAlignment="Center"/>
+            <Button Name="minus" Click="Button_Clicked" Width="50">-</Button>
+            <ComboBox Name="atomSelect"></ComboBox>
+            <Button Name="add" Click="Button_Clicked" Width="50">Add</Button>
+            <Button Name="clear" Click="Button_Clicked" Width="50">clear</Button>
+            <Button Name="path" Click="Button_Clicked" Width="50">Path</Button>
+            <Button Name="pause" Click="Button_Clicked" Width="50">Pause</Button>
+            <Button Name="clean" Click="Button_Clicked" Width="50">Clean</Button>
+            <Button Name="regular" Click="Button_Clicked" Width="50">100%</Button>
+        </StackPanel>
+        
+    </StackPanel>
+</Window>

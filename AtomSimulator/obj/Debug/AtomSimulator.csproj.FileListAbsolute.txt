@@ -1,0 +1,16 @@
+C:\Users\DELL\documents\visual studio 2017\Projects\AtomSimulator\AtomSimulator\bin\Debug\AtomSimulator.exe.config
+C:\Users\DELL\documents\visual studio 2017\Projects\AtomSimulator\AtomSimulator\bin\Debug\AtomSimulator.exe
+C:\Users\DELL\documents\visual studio 2017\Projects\AtomSimulator\AtomSimulator\bin\Debug\AtomSimulator.pdb
+C:\Users\DELL\documents\visual studio 2017\Projects\AtomSimulator\AtomSimulator\obj\Debug\Classes\Painter.g.cs
+C:\Users\DELL\documents\visual studio 2017\Projects\AtomSimulator\AtomSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\DELL\documents\visual studio 2017\Projects\AtomSimulator\AtomSimulator\obj\Debug\App.g.cs
+C:\Users\DELL\documents\visual studio 2017\Projects\AtomSimulator\AtomSimulator\obj\Debug\AtomSimulator_MarkupCompile.cache
+C:\Users\DELL\documents\visual studio 2017\Projects\AtomSimulator\AtomSimulator\obj\Debug\AtomSimulator_MarkupCompile.lref
+C:\Users\DELL\documents\visual studio 2017\Projects\AtomSimulator\AtomSimulator\obj\Debug\Classes\Painter.baml
+C:\Users\DELL\documents\visual studio 2017\Projects\AtomSimulator\AtomSimulator\obj\Debug\MainWindow.baml
+C:\Users\DELL\documents\visual studio 2017\Projects\AtomSimulator\AtomSimulator\obj\Debug\AtomSimulator.g.resources
+C:\Users\DELL\documents\visual studio 2017\Projects\AtomSimulator\AtomSimulator\obj\Debug\AtomSimulator.Properties.Resources.resources
+C:\Users\DELL\documents\visual studio 2017\Projects\AtomSimulator\AtomSimulator\obj\Debug\AtomSimulator.csproj.GenerateResource.Cache
+C:\Users\DELL\documents\visual studio 2017\Projects\AtomSimulator\AtomSimulator\obj\Debug\AtomSimulator.exe
+C:\Users\DELL\documents\visual studio 2017\Projects\AtomSimulator\AtomSimulator\obj\Debug\AtomSimulator.pdb
+C:\Users\DELL\documents\visual studio 2017\Projects\AtomSimulator\AtomSimulator\obj\Debug\AtomSimulator.csprojResolveAssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\DELL\documents\visual studio 2017\Projects\AtomSimulator\AtomSimulator\bin\Release\AtomSimulator.exe.config
+C:\Users\DELL\documents\visual studio 2017\Projects\AtomSimulator\AtomSimulator\bin\Release\AtomSimulator.exe
+C:\Users\DELL\documents\visual studio 2017\Projects\AtomSimulator\AtomSimulator\bin\Release\AtomSimulator.pdb
+C:\Users\DELL\documents\visual studio 2017\Projects\AtomSimulator\AtomSimulator\obj\Release\Classes\Painter.g.cs
+C:\Users\DELL\documents\visual studio 2017\Projects\AtomSimulator\AtomSimulator\obj\Release\MainWindow.g.cs
+C:\Users\DELL\documents\visual studio 2017\Projects\AtomSimulator\AtomSimulator\obj\Release\App.g.cs
+C:\Users\DELL\documents\visual studio 2017\Projects\AtomSimulator\AtomSimulator\obj\Release\AtomSimulator_MarkupCompile.cache
+C:\Users\DELL\documents\visual studio 2017\Projects\AtomSimulator\AtomSimulator\obj\Release\AtomSimulator_MarkupCompile.lref
+C:\Users\DELL\documents\visual studio 2017\Projects\AtomSimulator\AtomSimulator\obj\Release\Classes\Painter.baml
+C:\Users\DELL\documents\visual studio 2017\Projects\AtomSimulator\AtomSimulator\obj\Release\MainWindow.baml
+C:\Users\DELL\documents\visual studio 2017\Projects\AtomSimulator\AtomSimulator\obj\Release\AtomSimulator.g.resources
+C:\Users\DELL\documents\visual studio 2017\Projects\AtomSimulator\AtomSimulator\obj\Release\AtomSimulator.Properties.Resources.resources
+C:\Users\DELL\documents\visual studio 2017\Projects\AtomSimulator\AtomSimulator\obj\Release\AtomSimulator.csproj.GenerateResource.Cache
+C:\Users\DELL\documents\visual studio 2017\Projects\AtomSimulator\AtomSimulator\obj\Release\AtomSimulator.exe
+C:\Users\DELL\documents\visual studio 2017\Projects\AtomSimulator\AtomSimulator\obj\Release\AtomSimulator.pdb
